@@ -91,33 +91,34 @@ This this a NLP project aimed to find insights about how Queen's song lyrics. Th
 ## Sentiment Analysis
 <br>
 
+> click [here](https://public.tableau.com/views/Queen_Sentiment-Analysis-Dashboard_I/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) and [here](https://public.tableau.com/views/Queen_Sentiment-Analysis-Dashboard_II/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) for full visualization of the graphs
 
 ### Q.1.: How does the `sentiment level` of an album influences it's popularity? <br>  
 
-<img width=500 src='images\sentiment-level_vs_popularity.png'>
+<img width=800 src='images\sentiment-level_vs_popularity.png'>
 
 <br>
 
 
 ### Q.2. What is the overal sentiment 'inclination' of the band? Do they tend to `feel more the blues` or be more about the `good times`?
 
-<img width=500 src='images\polarity-distribution.png'>
+<img width=800 src='images\polarity-distribution.png'>
 
-<img width=500 src='images\count of songs sentiments.png'>
+<img width=800 src='images\count of songs sentiments.png'>
 
 <br>
 
 
 ### Q.3. What are the most used words on Queen's lyrics?
 
-<img width=500 src='images\Most used words.png'>
+<img width=800 src='images\Most used words.png'>
 
 <br>
 
 
 ### Q.4. What are the top 10 most most popular words across time?
 
-<img width=500 src='images\Use of words across time.png'>
+<img width=800 src='images\Use of words across time.png'>
 
 
 
